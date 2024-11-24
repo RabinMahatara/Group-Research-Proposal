@@ -1,1 +1,3 @@
 # Group-Research-Proposal
+
+This repository includes a Google Colab notebook that contains the complete code for visualizing the relationship between atmospheric CO₂ levels and extreme weather events (floods and droughts) from 2000 to 2023. It provides step-by-step code for data loading, filtering, merging, and visualization, ensuring reproducibility and ease of use. Both datasets are preloaded into the repository for seamless execution in the Colab environment. The notebook integrates datasets from NOAA's Mauna Loa Observatory (CO₂ concentrations) and EM-DAT's International Disaster Database (flood and drought events). 
